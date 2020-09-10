@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://metagrab.austinti.me">
-    <img src="https://metagrab.austinti.me/logo.png" width="300" height="300" />
+    <img src="https://metagrab.austinti.me/logo.png" width="300" />
   </a>
 </p>
 
